@@ -1,0 +1,29 @@
+body {
+  background-color: #e8ded2;
+  color: #4e89ae;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+  background-color: #e8ded2;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #ffa372;
+  width: 60%;
+}
+
+h1 {
+  color: #43658b;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: #43658b;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Classes*/
+
+.circular {
+  border-radius: 100%;
+}
